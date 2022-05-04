@@ -16,8 +16,6 @@ Utilizado também:
 
 ![pic-snake-the-game](https://user-images.githubusercontent.com/89210954/165128819-70569ade-1134-49bd-92be-214efff1c662.png)
 
->_NES.css_ :
->https://nostalgic-css.github.io/NES.css/#
+> [_NES.css_](https://nostalgic-css.github.io/NES.css/)
 
-> _Digital Innovation One_ :
->  www.dio.me
+> [_Digital Innovation One_](www.dio.me)
